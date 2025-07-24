@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "215579898202",
+    "project_id": "streamit-laravel-flutter",
+    "storage_bucket": "streamit-laravel-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215579898202:android:6af2263b7cd73685e24363",
+        "android_client_info": {
+          "package_name": "com.iqonic.streamitlaravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215579898202-8kqgqcqn8peijjhh0qk9mossihr3lrvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.streamitlaravel",
+            "certificate_hash": "20ab7ef43e962cf4199b62c02e2032d7d7ada776"
+          }
+        },
+        {
+          "client_id": "215579898202-9rbseqqool7586q4o13pkp1qb9mdih55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.streamitlaravel",
+            "certificate_hash": "364f8b8619301a21f6d9f3cdd6484c15cfb58558"
+          }
+        },
+        {
+          "client_id": "215579898202-gtgj44gucu3grr55po8o6sq2i9ljf846.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6irw7hQQVQAkBTwikrJ5Sg_cZoACg6MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215579898202-gtgj44gucu3grr55po8o6sq2i9ljf846.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215579898202-otcmigde5l2f12jogr39g10d1haa8f09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iqonic.streamitlaravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
